@@ -1,0 +1,6 @@
+{
+  "name": "Topia AI",
+  "description": "AI-powered English learning app with conversation tutoring, voice practice, camera photo typing tests without hints, and trilingual vocabulary flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
